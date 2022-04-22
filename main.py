@@ -1,4 +1,4 @@
-import Combinations
+import book_covid19
 if __name__ == '__main__':
-    res = Combinations.Solution.combine(n=6,k=3)
-    print(res)
+    res = book_covid19.booking()
+    res
