@@ -1,4 +1,4 @@
-import book_covid19
+import PalidromeNumber
 if __name__ == '__main__':
-    res = book_covid19.booking()
-    res
+    res = PalidromeNumber.Solution.isPalindrome(x=393)
+    print(res)
